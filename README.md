@@ -41,6 +41,7 @@ Analisis kurikulum sentralistik vs kontekstual di daerah 3T Indonesia, dengan so
       Memberikan saran implementasi yang konkret dan realistis, baik untuk lembaga pendidikan, pemda, maupun stakeholder teknologi.
 
 **MY RAW DATASET LINK**
+
 https://github.com/rainndra29/Kurikulum-Sentralistik-vs-Kurikulum-Kontekstual_Capstone-Project-Rai/blob/main/Raw%20Data%20Link
 
 **INSIGHT & FINDING**
