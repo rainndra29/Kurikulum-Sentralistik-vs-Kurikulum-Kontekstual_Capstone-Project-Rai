@@ -2,6 +2,7 @@
 Analisis kurikulum sentralistik vs kontekstual di daerah 3T Indonesia, dengan solusi pembelajaran adaptif menggunakan AI Watson dari IBM untuk meningkatkan relevansi dan pemerataan pendidikan.
 
 **PROJECT OVERVIEW**
+
 **Latar Belakang**
   Ketimpangan pendidikan di Indonesia, khususnya di wilayah 3T (Tertinggal, Terdepan, dan Terluar), masih menjadi tantangan besar yang belum tuntas. Salah satu akar permasalahannya adalah penggunaan kurikulum sentralistik yang seragam secara nasional namun tidak memperhatikan konteks sosial, budaya, dan geografis lokal. Kurikulum ini cenderung tidak relevan bagi peserta didik di daerah 3T yang menghadapi keterbatasan fasilitas, sumber daya manusia, dan akses teknologi.
 
