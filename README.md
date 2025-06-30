@@ -79,6 +79,7 @@ Tugas:
 
 Format output: JSON dengan struktur yang jelas mencakup dimensi dan skor."
 -----
+
 2. Analisis Hambatan Pembelajaran (Data Classification & Prioritization)
 IBM Granite 3.3 dimanfaatkan untuk document summarization dalam merangkum data kompleks hambatan pembelajaran kontekstual menjadi insights yang actionable. Model menggunakan kemampuan multi-level abstractive summarization untuk menghasilkan executive summary yang mudah dipahami stakeholder.
 
@@ -102,6 +103,7 @@ Task Summarization:
 summarization_result = llm_invoke(prompt_summarization)
 "
 ------- 
+
 3. Sentiment Analysis - Analisis Persepsi Stakeholder
 IBM Granite 3.3 diimplementasikan untuk sentiment analysis guna menganalisis persepsi stakeholder terhadap implementasi AI Watson dalam pembelajaran kontekstual. Model mampu melakukan fine-grained sentiment detection pada level document, sentence, dan aspect-based analysis.
 
@@ -126,6 +128,7 @@ Format: JSON dengan detailed sentiment breakdown
 sentiment_result = llm_invoke(prompt_sentiment)
 "
 -------
+
 4. Scenario Analysis - Evaluasi Implementasi AI Watson
 IBM Granite 3.3 digunakan untuk scenario planning dan evaluasi kelayakan implementasi 10 skenario AI Watson dengan menganalisis dampak, kompleksitas, timeline, dan ROI. Model menggunakan enhanced reasoning capabilities untuk memberikan assessment multidimensional.
 
