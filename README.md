@@ -99,6 +99,7 @@ Task Summarization:
 3. Rangkum dalam format bullet points
 4. Fokus pada actionable insights untuk policy makers
 """
+
 summarization_result = llm_invoke(prompt_summarization)
 "
 ------- 
@@ -120,6 +121,7 @@ Task Sentiment Analysis:
 2. Identifikasi key themes dan concerns
 3. Berikan confidence score untuk setiap klasifikasi
 4. Extract actionable insights untuk improvement
+
 Format: JSON dengan detailed sentiment breakdown
 """ sentiment_result = llm_invoke(prompt_sentiment)
 "
@@ -144,6 +146,7 @@ Task Analisis Skenario:
 3. Identifikasi implementation complexity (Low/Medium/High)
 4. Estimasi timeline implementasi untuk setiap skenario
 5. Prioritaskan skenario berdasarkan ROI dan feasibility
+
 Format: Structured analysis dengan scoring dan recommendations
 """ scenario_result = llm_invoke(prompt_scenario)
 "
