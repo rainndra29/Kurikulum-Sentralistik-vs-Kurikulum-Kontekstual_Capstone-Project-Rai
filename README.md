@@ -76,6 +76,7 @@ Tugas:
 1. Identifikasi 8 dimensi kunci untuk evaluasi kurikulum
 2. Berikan skor 1-10 untuk setiap pendekatan kurikulum pada masing-masing dimensi
 3. Fokus pada relevansi untuk daerah 3T
+
 Format output: JSON dengan struktur yang jelas mencakup dimensi dan skor."
 -----
 
