@@ -76,7 +76,6 @@ Tugas:
 1. Identifikasi 8 dimensi kunci untuk evaluasi kurikulum
 2. Berikan skor 1-10 untuk setiap pendekatan kurikulum pada masing-masing dimensi
 3. Fokus pada relevansi untuk daerah 3T
-
 Format output: JSON dengan struktur yang jelas mencakup dimensi dan skor."
 -----
 
@@ -101,8 +100,6 @@ Task Summarization:
 """
 summarization_result = llm_invoke(prompt_summarization)
 "
-
-
 ------- 
 
 3. Sentiment Analysis - Analisis Persepsi Stakeholder
@@ -124,9 +121,7 @@ Task Sentiment Analysis:
 4. Extract actionable insights untuk improvement
 
 Format: JSON dengan detailed sentiment breakdown
-"""
-
-sentiment_result = llm_invoke(prompt_sentiment)
+""" sentiment_result = llm_invoke(prompt_sentiment)
 "
 -------
 
@@ -151,8 +146,6 @@ Task Analisis Skenario:
 5. Prioritaskan skenario berdasarkan ROI dan feasibility
 
 Format: Structured analysis dengan scoring dan recommendations
-"""
-
-scenario_result = llm_invoke(prompt_scenario)
+""" scenario_result = llm_invoke(prompt_scenario)
 "
 -------
